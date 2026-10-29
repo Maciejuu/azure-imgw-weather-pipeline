@@ -1,0 +1,7 @@
+# Inferred from source imports; compatible versions have not been verified.
+requests
+pandas
+geopy
+azure-cosmos
+matplotlib
+basemap

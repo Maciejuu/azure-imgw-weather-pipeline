@@ -1,0 +1,7 @@
+Flask==2.2.2
+gunicorn
+Werkzeug==2.2.2
+azure-cosmos==4.7.0
+requests==2.28.2
+azure-storage-blob==12.8.1
+
